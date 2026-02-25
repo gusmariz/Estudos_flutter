@@ -1,17 +1,5 @@
-# desenvolvimento_mobile
+## Sobre
 
-A new Flutter project.
+Este repositório foi criado para documentar meus estudos em Flutter, realizados por meio de um curso completo de aproximadamente 36 horas no YouTube.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O objetivo é praticar os fundamentos do desenvolvimento mobile com Flutter, aplicando os conceitos em exemplos e pequenos projetos ao longo do aprendizado.
